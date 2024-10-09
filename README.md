@@ -1,10 +1,14 @@
-## Amelie Angelina Ramirez Godoy
-#### Bienvenido al repositorio personal de ame ^‿^
+# Bienvenido al repositorio ^‿^
+#### Proyecto: Análisis de Tendencias en Videos Musicales de YouTube: Patrones que Influyen en el Éxito de los Videos Musicales
 ---
 
-<img src = "https://i.pinimg.com/564x/63/01/e8/6301e89a9da8f926698c984bd4cc113d.jpg">
+<img src = "https://i.pinimg.com/564x/c9/63/2e/c9632ee30640b9a70bb0827f8cc54d25.jpg">
 
 ---
 > [!IMPORTANT]
-> Para mantener todo más ordenado he creado una carpeta con las actividades que ire subiendo, en la sub-carpeta esta todo lo solicitado en la act 1 :)
+> Enlaces de las API a utilizar
+
+ - YouTube: https://developers.google.com/youtube/v3?hl=es-419  
+ - Spotify: https://developer.spotify.com/documentation/web-api  
+ - Last.fm: https://www.last.fm/api  
 
